@@ -1,0 +1,25 @@
+p{
+	font-size: 20px;
+	clear:both;
+}
+.own {
+	width: 500px;
+	height: 500px;
+}
+.own2 {
+	width: 200px;
+	height:300px;
+}
+.own3 {
+	height: 400px;
+}
+.own4{
+	text-align: right;
+}
+.right {
+	float: left;
+}
+.left {
+	float: right;
+}
+	

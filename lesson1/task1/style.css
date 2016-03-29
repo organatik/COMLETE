@@ -1,0 +1,15 @@
+.underline{
+	text-decoration: underline;
+}
+.line-through {
+	text-decoration: line-through;
+}
+.right {
+	text-align: right;
+}
+.center {
+	text-align: center;
+}
+.justify{
+	text-align: justify;
+}
