@@ -1,0 +1,25 @@
+.numbers {
+	border: 1px solid grey;
+	border-radius: 4px;
+	padding: 3px 6px 3px 5px;
+	font-size: 10px;
+	vertical-align: top;
+	color: #9400D3;
+	font-weight: bold;
+}
+.text {
+	font-size: 10px;
+	margin-right: 8px;
+	margin-left: 8px;
+	vertical-align: top;
+	color: #9400D3;
+	font-weight: bold;
+}
+.dot {
+	margin: 0 5px;
+
+}
+.numbers:hover {
+	background-color: #9400D3;
+	color: white ;
+}

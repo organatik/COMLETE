@@ -1,0 +1,12 @@
+
+a[href*="ya"] {
+	color: #f70;
+}
+a[href*="goog"] {
+	color: #666;
+}
+a[target="_blank"]:after {
+
+	content: '\2191';
+
+}
