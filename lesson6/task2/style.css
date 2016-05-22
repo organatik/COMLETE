@@ -1,0 +1,92 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+.wrapper {
+	background-image: url(backG.jpg);
+	width: 1400px;
+	overflow: hidden;
+}
+h2 {
+	text-align: center;
+	text-transform: uppercase;
+	color :#3170A8;
+	font-size: 40px;
+	font-family: Trebuchet  ;
+	padding: 20px 0;
+}
+h2 span {
+	color: #EE8129;
+}
+.reviews1{
+	overflow: hidden;
+	padding-bottom: 50px;
+}
+
+.reviews1  img {
+
+	float: left;
+	display: inline-block;
+}
+.imgL{
+	padding-right: 15px;
+    padding-left: 170px;
+}
+
+.imgR {
+	 padding-left: 65px;
+	 padding-right: 15px;
+	 margin-top: 2px;
+}
+
+.say {
+	width: 380px;
+	background-color: white;
+	float: left;
+	display: inline-block;
+	font-size: 13px;
+	margin-top: 3px;
+	position: relative;
+	text-align: center;
+
+}
+
+.say2 {
+mar
+
+}
+
+.say p {
+	margin: 10px;
+	padding-top: 6px;
+}
+
+.header {
+
+	overflow: hidden;
+	border-bottom: 1.5px dotted grey;
+	margin: 0 15px;
+}
+
+
+.name {
+	float: left;	
+}
+
+.customer {
+	float: right;
+}
+
+h3 {
+	color: #5986B4;
+	font-size: 13px;
+	padding: 10px 0;
+	font-style: italic;
+}
+
+h3:before {
+	content: "- " ;
+	color:#5986B4;
+}
